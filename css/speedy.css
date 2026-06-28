@@ -179,7 +179,7 @@ h1, h2, h3, h4 { margin: 0; line-height: 1.02; }
 .wave svg { width: 100%; height: 70px; display: block; }
 
 /* ===================== SERVICES (dark) ===================== */
-.services { background: var(--violet-deep); color: #fff; padding-top: 3rem; }
+.services { background: var(--violet-deep); color: #fff; padding: 3rem 0 5.5rem; }
 .services__head { display: flex; justify-content: space-between; align-items: flex-end; gap: 1.5rem;
   margin-bottom: 3rem; flex-wrap: wrap; }
 .svc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.6rem; }
